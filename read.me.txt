@@ -1,0 +1,16 @@
+Install node
+
+Install vue cli: 
+npm install -g @vue/cli
+vue --version
+
+Install MongoDB
+
+vue create atktodoapp 
+npm run serve
+
+
+node dev-server/index.js
+npm install nodemon -g
+
+node prod-server/index.js
